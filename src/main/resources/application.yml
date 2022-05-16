@@ -1,0 +1,7 @@
+server:
+  port: 5000
+
+telegrambot:
+  botUserName: my_awesome_wizard_bot
+  botToken: 5334829058:AAH5VNuFod58nou7g3RHhctHOotIaBggEx4
+  webHookPath: https://c30b-5-187-87-78.eu.ngrok.io
